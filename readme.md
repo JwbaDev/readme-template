@@ -144,16 +144,15 @@ There are various ways to install this readme template
 ## CDN
 
 *   JsDelivir
-
-        # Add Your Instructions
+    ```
+    # Add Your Instructions
 
     [Back To Top](#top)
 
-    *   Unpkg
-
-    <!---->
-
-        # Add Your Instructions
+*   Unpkg
+    ```
+    # Add Your Instructions
+    ```
 
     [Back To Top](#top)
 
