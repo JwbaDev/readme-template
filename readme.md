@@ -197,7 +197,7 @@ There are various ways to install this readme template
 
 > **Include Your Usage Instructions Here.**
 
-> Know Any Other Platform Or Have Any More Ideas Kindly. Give A \[Issue]\[issues] Or If Possible Submit A \[Pull Request]\[https://github.com/krishdevdb/readme-template/pulls]
+> Know Any Other Platform Or Have Any More Ideas Kindly. Give A [Issue](https://github.com/krishdevdb/readme-template/issues) Or If Possible Submit A [Pull Request](https://github.com/krishdevdb/readme-template/pulls)
 
 # Get Support
 
@@ -267,9 +267,9 @@ We're excited that you're using **readme-template** and we'd love to help.
 
 # Roadmap
 
-\[x] Include Your Rodmap Here
+[x] Include Your Rodmap Here
 
-\[x] All Issues On Github
+[x] All Issues On Github
 
 # Authors
 
