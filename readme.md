@@ -15,7 +15,7 @@
 
 *   [Features](#features)
 
-*   [Ouick Start](#quick-start)
+*   [Quick Start](#quick-start)
 
 *   [Installation](#installation)
 
