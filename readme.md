@@ -5,11 +5,8 @@
   </p><a href="https://twitter.com/intent/tweet?url=https://github.com/krishdevdb/readme-template&amp;text=This%20Readme%20Template%20Helped%20Me%20A%20Lot%20In%20My%20Opensource%20Project.%20Make%20Sure%20To%20Check%20It%20Out">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=%23ffffff00&amp;logo=twitter&amp;style=for-the-badge&amp;url=https%3A%2F%2Fgithub.com%2Fkrishdevdb%2Freadme-template">
 </a>
-  <a href="https://github.com/krishdevdb/readme-template/stargazers">
-  <img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/krishdevdb/readme-template?logo=Github&amp;style=for-the-badge">
+  <a href="https://github.com/krishdevdb/readme-template/stargazers"><img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/krishdevdb/readme-template?logo=Github&amp;style=for-the-badge">
 </a></div>
-
-<br>
 
 # Table Of Contents
 
@@ -65,14 +62,14 @@
 
 *   More...
 
-[Back To Top](#top)
+[Back To Top][top]
 
 # Quick Start
 
 1.  Create A Readme File File
 
 ```markdown
-<!-- With Nothing Inside It -->
+<!-- With Nothing Inside It. -->
 ```
 
 1.  Copy The Readme Code Of This Project To Your Project
@@ -83,120 +80,104 @@
 
 1.  Now you are all set to rock on github.
 
-[Back To Top](#top)
+[Back To Top][top]
 
 # Installation
 
 There are various ways to install this readme template
 
-<!-- Delete The Package Managers/CDNs That Are Useless/ Not Applicable To You --> <!-- Replace These Installation Instructions With Your Instructions -->
+<!-- Delete The Package Managers/CDNs Not Applicable To You --> 
+<!-- Replace These Installation Instructions With Your Instructions -->
 
 ## Package Managers
 
-*   **NPM** - A NodeJs Based Package Manager.
+####  **NPM** - A NodeJs Based Package Manager.
 
-    ```bash
-    npm install # Your Project Installation Instructions
-    ```
+```bash
+npm install # Your Project Installation Instructions
+```
 
-[Back To Top](#top)
+#### Yarn - A Better Equivalent To NPM.
 
-*   **Yarn** - A Better Equivalent To NPM.
+```bash
+yarn add # Your Project Installation Instructions
+```
 
-    ```bash
-    yarn add # Your Project Installation Instructions
-    ```
+####   PNPM - A Faster NodeJS Based Package Manager
 
-[Back To Top](#top)
+```bash
+pnpm install # Your Project Installation Instructions
+```
 
-*   **PNPM** - A Faster NodeJS Based Package Manager
+####   Meteor - Another NodeJs Based Package Manager
 
-    ```bash
-    pnpm install # Your Project Installation Instructions
-    ```
+```bash
+meteor add # Your Project Installation Instructions
+```
 
-[Back To Top](#top)
+#### Composer - The PHP Package Manager
 
-*   **Meteor** - Another NodeJs Based Package Manager
+```bash
+composer require # Your Project Installation Instructions
+```
 
-    ```bash
-    meteor add # Your Project Installation Instructions
-    ```
+####  Bower - A Package Manager For The Web
 
-[Back To Top](#top)
+```bash
+bower install # you/your-repo
+```
 
-*   **Composer** - The PHP Package Manager
-
-    ```bash
-    composer require # Your Project Installation Instructions
-    ```
-
-[Back To Top](#top)
-
-*   **Bower** - A Package Manager For The Web
-
-    ```bash
-    bower install # you/your-repo
-    ```
-
-[Back To Top](#top)
+[Back To Top][top]
 
 ## CDN
 
-*   JsDelivir
-    ```
-    # Add Your Instructions
+####  JsDelivir
+```
+# Add Your Instructions
+```
 
-    [Back To Top](#top)
+#### Unpkg
+```
+# Add Your Instructions
+```
 
-*   Unpkg
-    ```
-    # Add Your Instructions
-    ```
+####  Github
 
-    [Back To Top](#top)
+```
+# Add Your Instructions
+```
 
-    *   Github
+[Back To Top][top]
+    
+## Downloads
 
-    <!---->
+*   Minified Version: <!-- Remove If Not Applicable -->
+*   Main File: **# Add Your Instructions**    
+*   Full Repository - **# Add Your Instructions**
 
-        # Add Your Instructions
+[Back To Top][top]
+    
+## Clone Repository
 
-    [Back To Top](#top)
+####   Using Git
 
-    ## Downloads
+```bash
+git clone # Your Repository Url With The .git Ending
+```
 
-    *   Minified Version: <!-- Remove If Not Applicable -->
+#### Github Cli
 
-    *   Main File: **# Add Your Instructions**
+```bash
+gh repo clone # Your Username/Your Repo Name
+```
 
-    *   Full Repository - **# Add Your Instructions**
+[Back To Top][top]
 
-    [Back To Top](#top)
+## Usage
 
-    ## Clone Repository
+<!-- Include Your Usage Instructions Here. -->
 
-    *   Using Git
-
-        ```bash
-        git clone # Your Repository Url With The .git Ending
-        ```
-
-        <a href="#top">Back To Top</a>
-
-    *   Github Cli
-
-        ```bash
-        gh repo clone # Your Username/Your Repo Name
-        ```
-
-        <a href="#top">Back To Top</a>
-
-# Usage
-
-> **Include Your Usage Instructions Here.**
-
-> Know Any Other Platform Or Have Any More Ideas Kindly. Give A [Issue](https://github.com/krishdevdb/readme-template/issues) Or If Possible Submit A [Pull Request](https://github.com/krishdevdb/readme-template/pulls)
+> Know Any Other Platform Or Have Any More Ideas Kindly. Give A [Issue][issues] Or If Possible Submit A [Pull Request](https://github.com/krishdevdb/readme-template/pulls)
 
 # Get Support
 
@@ -208,9 +189,9 @@ Hi! 👋🏻
 
 We're excited that you're using **readme-template** and we'd love to help.
 
-*   [Chat Us On Discord](https://discord.gg/xqh38kb6sv)
+*   [See The Wiki][wiki]
 
-*   [Start A Discussion On Github](https://github.com/krishdevdb/readme-template/discussions)
+*   [Start A Discussion On Github][chat]
 
 *   [Add A Issue On Github](https://github.com/krishdevdb/readme-template/issues)
 
@@ -218,7 +199,7 @@ We're excited that you're using **readme-template** and we'd love to help.
 
 ## Review
 
-*   [![Reseter.css - A futuristic CSS reset and normalize | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=285799\&theme=light)](https://www.producthunt.com/posts/reseter-css?utm_source=badge-review\&utm_medium=badge\&utm_souce=badge-reseter-css#discussion-body)
+*   <a href="https://www.producthunt.com/posts/readme-template?utm_source=badge-review&utm_medium=badge&utm_souce=badge-readme-template#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=286773&theme=light" alt="Readme Template - A Readme Template For Tomorrow's Opensource | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 ## Spread
 
@@ -234,41 +215,18 @@ We're excited that you're using **readme-template** and we'd love to help.
 
 ## Sponsor
 
-*   <span>
-      <img width="32" height="32" alt="patreon" src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg">
-    </span>
-
-    <span>
-      <a href="https://patreon.com/krishdevdb">
-      <span>patreon.com/<strong>krishdevdb</strong></span>
+*   <a href="https://patreon.com/krishdevdb">patreon.com/<strong>krishdevdb</strong></a>
+    
+*   <a href="https://ko-fi.com/krishdevdb">ko-fi.com/<strong>krishdevdb</strong>
     </a>
-    </span>
-
-*   <span>
-      <img width="32" height="32" alt="ko_fi" src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/ko_fi.svg">
-    </span>
-
-    <span>
-      <a href="https://ko-fi.com/krishdevdb">
-      <span>ko-fi.com/<strong>krishdevdb</strong></span>
-    </a>
-    </span>
-
-*   <span>
-      <img width="32" height="32" alt="liberapay" src="https://github.githubassets.com/images/modules/site/icons/funding_platforms/liberapay.svg">
-    </span>
-
-    <span>
-      <a href="https://liberapay.com/krishdevdb">
-      <span>liberapay.com/<strong>krishdevdb</strong></span>
-    </a>
-    </span>
+    
+*   <a href="https://liberapay.com/krishdevdb">liberapay.com/<strong>krishdevdb</strong></a>
 
 # Roadmap
 
-[x] Include Your Rodmap Here
+* Include Your Rodmap Here
 
-[x] All Issues On Github
+* All Issues On Github
 
 # Authors
 
@@ -295,47 +253,38 @@ We're excited that you're using **readme-template** and we'd love to help.
 [![Stargazers over time](https://starchart.cc/krishdevdb/readme-template.svg)](https://starchart.cc/krishdevdb/readme-template)
 
 # License
+```
+MIT License
 
-        MIT License
+Copyright (c) 2021 Readme Template Authors
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-        Copyright (c) 2021 Krish Dev DB
-
-
-
-        Permission is hereby granted, free of charge, to any person obtaining a copy
-
-        of this software and associated documentation files (the "Software"), to deal
-
-        in the Software without restriction, including without limitation the rights
-
-        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-
-        copies of the Software, and to permit persons to whom the Software is
-
-        furnished to do so, subject to the following conditions:
-
-
-        The above copyright notice and this permission notice shall be included in all
-
-        copies or substantial portions of the Software.
-
-
-        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-
-        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-
-        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-
-        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-
-        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-
-        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-
-        SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 # Status
 
 This project is currently being maintained. And Will Be Maintained. If You Like This Project And Want This Project To Never Exhaust. Please Consider Donating.
+
+
+
+[top]: #top
+[ issues ]: https://github.com/krishdevdb/readme-template/issues
+[ pull-requests ]: https://github.com/krishdevdb/readme-template/pulls
+[ chat ]: https://github.com/krishdevdb/readme-template/discussions
+[ wiki ]: https://github.com/krishdevdb/readme-template/wiki
