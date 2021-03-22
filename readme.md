@@ -1,5 +1,5 @@
-<div align="center" id="top"><p><a href="https://app.codacy.com/gh/krishdevdb/readme-template/dashboard"><img src="https://img.shields.io/codacy/grade/1a76cd48727846d7804203b3f7ff66ed?style=flat-square"></a>
-    <a href="https://github.com/krishdevdb/reseter.css/commits/master"><img src="https://img.shields.io/github/last-commit/krishdevdb/readme-template?style=flat-square"></a>
+<div align="center" id="top"><p>
+    <a href="https://github.com/krishdevdb/readme-template/commits/master"><img src="https://img.shields.io/github/last-commit/krishdevdb/readme-template?style=flat-square"></a>
     <a href="#status"><img src="https://img.shields.io/badge/Maintained-yes-green.svg?style=flat-square"></a></p><img height="100px" width="100px" src="./logo.png">
   <br><h1>Readme Template</h1><h5>A Readme Template For Tomorrow's Opensource</h5><p><b>Readme Template</b> is a <b>readme template</b> for awesome opensource projects. This Readme Template Focuses On How To Make Your Readme <b>Longer, Effective, Best </b> For Search Engines. So That You Rank The Best, Be The Best, Get The Best
   </p><a href="https://twitter.com/intent/tweet?url=https://github.com/krishdevdb/readme-template&amp;text=This%20Readme%20Template%20Helped%20Me%20A%20Lot%20In%20My%20Opensource%20Project.%20Make%20Sure%20To%20Check%20It%20Out">
